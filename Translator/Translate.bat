@@ -18,6 +18,6 @@ copy .\Result\Data\*.* ..\Data\*.*
 copy .\Font\*.* ..\Font\*.*
 copy .\Result\Resources\*.* ..\Resources\*.*
 
-copy FontFiles.txt ..\FontFiles.txt
-copy TextFiles.txt ..\TextFiles.txt
-copy UIFiles.txt ..\UIFiles.txt
+dir/b ..\Data > ..\TextFiles.txt
+dir/b ..\Resources > ..\UIFiles.txt
+dir/b ..\Font > ..\FontFiles.txt

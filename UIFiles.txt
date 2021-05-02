@@ -1,5 +1,4 @@
 ui_prefab_agabilitypreview
-ui_prefab_agemo
 ui_prefab_agfilter
 ui_prefab_aginfo
 ui_prefab_agrankupgrade
