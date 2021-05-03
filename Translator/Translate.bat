@@ -9,7 +9,7 @@ dir/b .\Data > TextFiles.txt
 dir/b .\Resources > UIFiles.txt
 dir/b .\Font > FontFiles.txt
 
-.\bin\CollectString.exe TextFiles.txt UIFiles.txt ArteryGearCN2KOR.csv
+.\bin\CollectString.exe TextFiles.txt UIFiles.txt ..\ArteryGearCN2KOR.csv
 
 del /Q ..\Data\*.*
 del /Q ..\Font\*.*

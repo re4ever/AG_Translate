@@ -1,3 +1,4 @@
+test_ui_prefabs
 ui_prefab_agabilitypreview
 ui_prefab_agfilter
 ui_prefab_aginfo
