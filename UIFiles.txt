@@ -8,6 +8,7 @@ ui_prefab_agskin
 ui_prefab_agstorage
 ui_prefab_agupstar
 ui_prefab_announcement
+ui_prefab_appcommentjump
 ui_prefab_awaken
 ui_prefab_backpack
 ui_prefab_battledatainfo
@@ -27,6 +28,7 @@ ui_prefab_copymain
 ui_prefab_createrole
 ui_prefab_crusade
 ui_prefab_crusademain
+ui_prefab_dispatch
 ui_prefab_drawcard
 ui_prefab_equipchange
 ui_prefab_equipdetail
@@ -43,7 +45,10 @@ ui_prefab_friends
 ui_prefab_functionopen
 ui_prefab_getrewards
 ui_prefab_getsingleitem
+ui_prefab_guidebook
 ui_prefab_guild
+ui_prefab_guildboss
+ui_prefab_guildcreate
 ui_prefab_handbook
 ui_prefab_help
 ui_prefab_homeagselect
@@ -56,6 +61,7 @@ ui_prefab_hotupdate
 ui_prefab_itemcomposite
 ui_prefab_itemdetail
 ui_prefab_iteminfo
+ui_prefab_itemlist
 ui_prefab_jjcbattlelist
 ui_prefab_jjcbattleover
 ui_prefab_jjcdefteaminfo
@@ -82,6 +88,7 @@ ui_prefab_passport
 ui_prefab_passportsub
 ui_prefab_playerinfo
 ui_prefab_plot
+ui_prefab_quickupstar
 ui_prefab_raiders
 ui_prefab_resourcecollection
 ui_prefab_sellconfirm
@@ -100,6 +107,7 @@ ui_prefab_tips
 ui_prefab_titlemenu
 ui_prefab_tower
 ui_prefab_uichooseiteminfo
+ui_prefab_uidarkarea
 ui_prefab_uilogin
 ui_prefab_uiskipplotbox
 ui_prefab_upgradesucceed
