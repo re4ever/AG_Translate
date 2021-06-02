@@ -3,9 +3,9 @@
 dir/b .\Result\Data > TextFiles.txt
 del /S /Q Result\Data
 
-.\bin\ArteryGearTranslator.exe I18n TextFiles.txt ..\TextSheet.csv ..\CharSheet.csv
-.\bin\ArteryGearTranslator.exe Char TextFiles.txt ..\CharSheet.csv
-.\bin\ArteryGearTranslator.exe Plot TextFiles.txt ..\PlotSheet.csv
+.\bin\ArteryGearTranslator.exe I18n FileData.txt ..\TextSheet.csv ..\CharSheet.csv
+.\bin\ArteryGearTranslator.exe Char FileData.txt ..\CharSheet.csv
+.\bin\ArteryGearTranslator.exe Plot FileData.txt ..\PlotSheet.csv
 
 del /Q ..\Data\*.*
 copy .\Result\Data\*.* ..\Data\*.*
