@@ -33,6 +33,7 @@ agfashion_100000251_bg
 agfashion_100000391_bg
 agfashion_100000441_bg
 agfashion_100000651_bg
+agfashion_100000901_bg
 aginfoui_bg_texture_01
 aginfoui_bg_texture_02
 aginfoui_bg_texture_03
@@ -44,6 +45,7 @@ agl2d_meko_100000441
 agl2d_milvus_100000251
 agl2d_nemophila_100000651
 agl2d_nio_100000011
+agl2d_sirius_100000901
 agstorageui_bg_texture_01
 animation
 atlas_3dsight_scene_assembly_wallshadow
@@ -1124,6 +1126,7 @@ shader_reflectioncube
 shader_refraction
 shader_refraction_nc
 shader_refraction_wc
+shader_shaking
 shader_sight_common_additive
 shader_sight_common_alphablend
 shader_sight_common_pbr_roughness_combined
@@ -1297,9 +1300,12 @@ sight_gonghuizhan_post
 sight_gonghuizhan_scene
 sight_gonghuizhan_tex
 sight_gym_blue_full_animation
+sight_gym_blue_full_lightmap
 sight_gym_blue_full_mat
+sight_gym_blue_full_mod
 sight_gym_blue_full_prefab
 sight_gym_blue_full_tex
+sight_gym_yellowb_full_animation
 sight_gym_yellowb_full_mat
 sight_gym_yellowb_full_prefab
 sight_gym_yellowb_full_tex
@@ -1890,6 +1896,9 @@ spineag_10000086_homeskel
 spineag_10000086_rescommon
 spineag_10000086_resfight
 spineag_10000086_uiskel
+spineag_100000901_rescommon
+spineag_100000901_resfight
+spineag_100000901_uiskel
 spineag_10000090_homeskel
 spineag_10000090_rescommon
 spineag_10000090_resfight
@@ -3241,6 +3250,7 @@ uiatlas_agcard_10000083
 uiatlas_agcard_10000085
 uiatlas_agcard_10000086
 uiatlas_agcard_10000090
+uiatlas_agcard_100000901
 uiatlas_agcard_10000091
 uiatlas_agcard_10000093
 uiatlas_agcard_10000094
@@ -3266,6 +3276,8 @@ uiatlas_agcard_10000134
 uiatlas_agcard_10000135
 uiatlas_agcard_10000165
 uiatlas_agcard_10000176
+uiatlas_agcard_10020027
+uiatlas_agcard_10020058
 uiatlas_agcard_10060001
 uiatlas_agcard_10060002
 uiatlas_agcard_10060015
