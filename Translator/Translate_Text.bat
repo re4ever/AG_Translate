@@ -4,7 +4,7 @@ del /S /Q Result\Data
 del /S /Q Result\DecryptData
 dir/b .\Data > FullTextFiles.txt
 
-.\bin\ArteryGearTranslator.exe Make
+.\bin\ArteryGearTranslator.exe Make FullTextFiles.txt FileData.txt
 .\bin\ArteryGearTranslator.exe Char FileData.txt ..\CharSheet.csv
 .\bin\ArteryGearTranslator.exe Plot FileData.txt ..\PlotSheet.csv
 .\bin\ArteryGearTranslator.exe Load FileData.txt ..\LoadingSheet.csv
