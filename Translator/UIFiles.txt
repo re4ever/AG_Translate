@@ -111,6 +111,7 @@ ui_prefab_tower
 ui_prefab_uichooseiteminfo
 ui_prefab_uidarkarea
 ui_prefab_uilogin
+ui_prefab_uimagicalgirlpda
 ui_prefab_uiskipplotbox
 ui_prefab_upgradesucceed
 ui_prefab_video
