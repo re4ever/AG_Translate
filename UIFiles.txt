@@ -50,6 +50,7 @@ ui_prefab_getsingleitem
 ui_prefab_guidebook
 ui_prefab_guild
 ui_prefab_guildboss
+ui_prefab_guildbossredo
 ui_prefab_guildcreate
 ui_prefab_handbook
 ui_prefab_help

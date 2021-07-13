@@ -6,7 +6,6 @@ dir/b .\Data > FullTextFiles.txt
 
 .\bin\ArteryGearTranslator.exe Make FullTextFiles.txt FileData.txt
 .\bin\ArteryGearTranslator.exe Plot FileData.txt ..\PlotSheet.csv ..\PlotCharSheet.csv ..\PlotOptionSheet.csv
-.\bin\ArteryGearTranslator.exe Load FileData.txt ..\LoadingSheet.csv
 .\bin\ArteryGearTranslator.exe I18n FileData.txt ..\I18n.csv
 
 del /Q ..\Data\*.*

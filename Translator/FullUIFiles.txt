@@ -228,6 +228,7 @@ effect_combat_pareffhit_108
 effect_combat_pareffhit_109
 effect_combat_pareffhit_dianjiyinbao
 effect_combat_pareffhit_fushiyinbao
+effect_combat_pareffhit_kongxifanzhi
 effect_combat_pareffhit_shaoshangyinbao
 effect_combat_pareffpublic_001
 effect_combat_pareffpublic_004
@@ -451,6 +452,7 @@ effect_ui_hard
 effect_ui_hit
 effect_ui_home
 effect_ui_hongdian
+effect_ui_jiaodiguangquan
 effect_ui_jiayuanfangzhi
 effect_ui_jiesuanchengjiudacheng
 effect_ui_jiesuanhaogandu
@@ -470,6 +472,7 @@ effect_ui_jingjichang
 effect_ui_jingjichangshengduan
 effect_ui_jingyantiao
 effect_ui_jingyantiao01
+effect_ui_jipojiesuan
 effect_ui_juesejuexing
 effect_ui_juesejuexing_01
 effect_ui_jueseshengjichenggong
@@ -971,6 +974,8 @@ plot_cutin_04
 plot_cutin_05
 plot_cutin_06
 plot_cutin_07
+plot_cybercity_day_bg
+plot_cybercity_night_bg
 plot_datiechuijiku_bg
 plot_deadsea_bg
 plot_decisiveday_bg
@@ -1991,6 +1996,7 @@ spineag_10000096_homeskel
 spineag_10000096_rescommon
 spineag_10000096_resfight
 spineag_10000096_uiskel
+spineag_100000981_homeskel
 spineag_100000981_rescommon
 spineag_100000981_resfight
 spineag_100000981_uiskel
@@ -2427,6 +2433,9 @@ spineenemy_20900021_uiskel
 spineenemy_20900022_rescommon
 spineenemy_20900022_resfight
 spineenemy_20900022_uiskel
+spineenemy_20900024_rescommon
+spineenemy_20900024_resfight
+spineenemy_20900024_uiskel
 spinenpcshader_fight
 spinenpc_001_rescommon
 spinenpc_001_resfight
@@ -3464,6 +3473,12 @@ uiatlas_agcard_10090023
 uiatlas_agcard_10090024
 uiatlas_agcard_10090025
 uiatlas_agcard_10090026
+uiatlas_agcard_10090027
+uiatlas_agcard_10090028
+uiatlas_agcard_10090029
+uiatlas_agcard_10090030
+uiatlas_agcard_10090031
+uiatlas_agcard_10090032
 uiatlas_agcard_11000001
 uiatlas_agcard_11000002
 uiatlas_agcard_11000003
@@ -3507,6 +3522,7 @@ uiatlas_bosscard_20900018
 uiatlas_bosscard_20900020
 uiatlas_bosscard_20900021
 uiatlas_bosscard_20900022
+uiatlas_bosscard_20900024
 uiatlas_bosscard_20910461
 uiatlas_bosscard_20910462
 uiatlas_challengebossui
@@ -3538,6 +3554,7 @@ uiatlas_friendsui
 uiatlas_functionopenui
 uiatlas_getrewardsui
 uiatlas_guidebookui
+uiatlas_guildbossredoui
 uiatlas_guildbossui
 uiatlas_guildiconui
 uiatlas_guildui
@@ -3695,6 +3712,7 @@ ui_prefab_getsingleitem
 ui_prefab_guidebook
 ui_prefab_guild
 ui_prefab_guildboss
+ui_prefab_guildbossredo
 ui_prefab_guildcreate
 ui_prefab_handbook
 ui_prefab_help
