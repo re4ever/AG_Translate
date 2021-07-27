@@ -65,6 +65,7 @@ ui_prefab_itemcomposite
 ui_prefab_itemdetail
 ui_prefab_iteminfo
 ui_prefab_itemlist
+ui_prefab_jigsaw
 ui_prefab_jjcbattlelist
 ui_prefab_jjcbattleover
 ui_prefab_jjcdefteaminfo
