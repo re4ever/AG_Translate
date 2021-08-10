@@ -1,3 +1,4 @@
+082_pixel
 3dsight_scene_assembly
 additive_cr_001
 additive_magma_sf
@@ -28,6 +29,7 @@ add_niuqu3_sf
 add_xulietu_sf
 agfashion_100000011_bg
 agfashion_100000071_bg
+agfashion_100000121_bg
 agfashion_100000161_bg
 agfashion_100000251_bg
 agfashion_100000391_bg
@@ -38,6 +40,7 @@ agfashion_100000461_bg
 agfashion_100000631_bg
 agfashion_100000651_bg
 agfashion_100000781_bg
+agfashion_100000821_bg
 agfashion_100000901_bg
 agfashion_100000981_bg
 aginfoui_bg_texture_01
@@ -45,6 +48,7 @@ aginfoui_bg_texture_02
 aginfoui_bg_texture_03
 agl2d_04_100000071
 agl2d_alice_100000631
+agl2d_condor_100000821
 agl2d_feidy_100000161
 agl2d_katie_100000391
 agl2d_lobelia_100000421
@@ -57,6 +61,7 @@ agl2d_quinn_100000781
 agl2d_shinobu_100000431
 agl2d_shyura_100000461
 agl2d_sirius_100000901
+agl2d_sylvia_100000121
 agstorageui_bg_texture_01
 animation
 atlas_3dsight_scene_assembly_wallshadow
@@ -76,6 +81,7 @@ blended_dobleside_wc
 blended_fire2_sf
 blended_fire_sf
 blended_magma_sf
+blended_niuqu_kuosan_02_sf
 blended_niuqu_kuosan_sf
 blended_niuqu_sf
 blended_niuqu_shousuo_sf
@@ -85,6 +91,11 @@ blended_uv_multiply_02_sf
 blended_uv_multiply_sf
 blended_uv_sf
 blended_x_scene_sf
+changjing
+changjing2
+changjing3
+changjing4
+changjing5
 commander_bg_texture_00l
 commander_bg_texture_00n
 commander_bg_texture_01
@@ -332,6 +343,7 @@ effect_combat_show10000112
 effect_combat_show10000113
 effect_combat_show10000114
 effect_combat_show10000129
+effect_combat_show10000166
 effect_combat_show10000631
 effect_combat_show10080022
 effect_combat_show10080023
@@ -437,6 +449,7 @@ effect_ui_28ri_qiandao
 effect_ui_aginfo_particle_1
 effect_ui_baoji
 effect_ui_baozha
+effect_ui_bianduijihuo
 effect_ui_cailiaoronghe
 effect_ui_chenggong
 effect_ui_chongzhuzhuangbei
@@ -454,6 +467,7 @@ effect_ui_chuangjuejiemian
 effect_ui_combo
 effect_ui_daijieshou
 effect_ui_daijiesuo
+effect_ui_daizijinse
 effect_ui_daojulingqu
 effect_ui_daojulingqu_jiesuan
 effect_ui_dengjitiao
@@ -514,6 +528,7 @@ effect_ui_juqing_xueye
 effect_ui_juqing_zhuazi
 effect_ui_kejishu
 effect_ui_keji_yuanhuan
+effect_ui_limitbreak
 effect_ui_loading_01
 effect_ui_loading_02
 effect_ui_mofabowen
@@ -560,6 +575,7 @@ effect_ui_plot_zhanjianjiku_bg
 effect_ui_plot_zhanjianzoulangfire_bg
 effect_ui_plot_zhanjianzoulang_bg
 effect_ui_qianghuachenggongshanguang
+effect_ui_qixijiesuo
 effect_ui_quanji
 effect_ui_quanxitu
 effect_ui_rankup
@@ -583,6 +599,7 @@ effect_ui_suduxian02
 effect_ui_suduxian03
 effect_ui_tanhao
 effect_ui_taozhuangjihuo
+effect_ui_xiaoyouxihuode
 effect_ui_xingdongtiao
 effect_ui_xinjiesuan
 effect_ui_xinshoumubiao
@@ -604,18 +621,23 @@ effect_ui_zhuangbeijiemianrenwu
 effect_ui_zhuangbeiqianghua
 effect_ui_zhuangbeiqianghua_01
 effect_ui_zhuangbeiqianghua_02
+effect_ui_zhuanshujiesuo
+effect_ui_zhuanshuqianghua
 effect_ui_zhuanyiwancheng
 equipmanufactureui_bg_texture
 equipmentsynthesisui_bg_texture
 equipui_bg_texture
 eventquest_texture_bg
 experience_bg_texture
+floor
 friendandemailui_bg_texture
 glass_animation2_sf
 gotobattle_bg_texture
 guidelineui_bg_texture
 guildui_bg_texture
 handbookui_bg_texture
+harm
+hd001_games_bg
 iceshader_high_sf
 iceshader_road_sf
 iceshader_sf
@@ -644,6 +666,7 @@ loading_bg_texture_14
 loading_bg_texture_15
 ltactivity_bg_texture_01
 ltactivity_bg_texture_02
+l_delivery
 mainui_bg_texture
 mainui_bg_texture1
 material
@@ -895,6 +918,7 @@ mod_effect_z_dashuilang
 mod_effect_z_dimian
 mod_effect_z_jianbiantiao
 mod_effect_z_keji
+mod_effect_z_liewen
 mod_effect_z_luoxuan
 mod_effect_z_planeqiu
 mod_effect_z_qiliuqiu
@@ -908,6 +932,7 @@ mod_effect_z_shuilang
 mod_effect_z_shuzhu01
 mod_effect_z_tangguo
 mod_effect_z_tui
+mod_effect_z_ui_kejikuang
 mod_effect_z_ui_tuotiao
 mod_effect_z_xishou
 mod_effect_z_yuanhuan01
@@ -1162,9 +1187,11 @@ refraction_sf_nc
 refraction_xulietu_sf
 refraction_xulietu_wc
 Resources
+reverse
 rongjie_niuqu2_sf
 rongjie_niuqu3_sf
 rongjie_niuqu_sf
+r_delivery
 shader_additive
 shader_additive_cr_002
 shader_additive_wc
@@ -1458,6 +1485,12 @@ sight_rumpusroom_luxury_full_mat
 sight_rumpusroom_luxury_full_mod
 sight_rumpusroom_luxury_full_prefab
 sight_rumpusroom_luxury_full_tex
+sight_rumpusroom_skyedge_full_animation
+sight_rumpusroom_skyedge_full_lightmap
+sight_rumpusroom_skyedge_full_mat
+sight_rumpusroom_skyedge_full_mod
+sight_rumpusroom_skyedge_full_prefab
+sight_rumpusroom_skyedge_full_tex
 sight_rumpusroom_yellowb_full_animation
 sight_rumpusroom_yellowb_full_lightmap
 sight_rumpusroom_yellowb_full_mat
@@ -1582,6 +1615,7 @@ skillclip_10000112
 skillclip_10000113
 skillclip_10000114
 skillclip_10000129
+skillclip_10000166
 skillclip_10080029
 skillclip_10080030
 skillclip_10080031
@@ -1673,6 +1707,8 @@ spineagmax_10000047_rescommon
 spineagmax_10000047_uiskel
 spineagmax_10000048_rescommon
 spineagmax_10000048_uiskel
+spineagmax_10000049_rescommon
+spineagmax_10000049_uiskel
 spineagmax_10000052_rescommon
 spineagmax_10000052_uiskel
 spineagmax_10000057_rescommon
@@ -1681,6 +1717,8 @@ spineagmax_10000058_rescommon
 spineagmax_10000058_uiskel
 spineagmax_10000059_rescommon
 spineagmax_10000059_uiskel
+spineagmax_10000061_rescommon
+spineagmax_10000061_uiskel
 spineagmax_10000063_rescommon
 spineagmax_10000063_uiskel
 spineagmax_10000065_rescommon
@@ -1695,6 +1733,8 @@ spineagmax_10000071_rescommon
 spineagmax_10000071_uiskel
 spineagmax_10000074_rescommon
 spineagmax_10000074_uiskel
+spineagmax_10000075_rescommon
+spineagmax_10000075_uiskel
 spineagmax_10000076_rescommon
 spineagmax_10000076_uiskel
 spineagmax_10000077_rescommon
@@ -1703,6 +1743,8 @@ spineagmax_10000078_rescommon
 spineagmax_10000078_uiskel
 spineagmax_10000080_rescommon
 spineagmax_10000080_uiskel
+spineagmax_10000082_rescommon
+spineagmax_10000082_uiskel
 spineagmax_10000083_rescommon
 spineagmax_10000083_uiskel
 spineagmax_10000090_rescommon
@@ -1760,6 +1802,10 @@ spineag_10000011_homeskel
 spineag_10000011_rescommon
 spineag_10000011_resfight
 spineag_10000011_uiskel
+spineag_100000121_homeskel
+spineag_100000121_rescommon
+spineag_100000121_resfight
+spineag_100000121_uiskel
 spineag_10000012_homeskel
 spineag_10000012_rescommon
 spineag_10000012_resfight
@@ -2026,6 +2072,10 @@ spineag_10000081_homeskel
 spineag_10000081_rescommon
 spineag_10000081_resfight
 spineag_10000081_uiskel
+spineag_100000821_homeskel
+spineag_100000821_rescommon
+spineag_100000821_resfight
+spineag_100000821_uiskel
 spineag_10000082_homeskel
 spineag_10000082_rescommon
 spineag_10000082_resfight
@@ -2121,6 +2171,9 @@ spineag_10000129_homeskel
 spineag_10000129_rescommon
 spineag_10000129_resfight
 spineag_10000129_uiskel
+spineag_10000166_rescommon
+spineag_10000166_resfight
+spineag_10000166_uiskel
 spineag_10080022_rescommon
 spineag_10080022_resfight
 spineag_10080022_uiskel
@@ -2737,6 +2790,7 @@ tex_effect_fazhen_00001
 tex_effect_fazhen_00001_01
 tex_effect_fazhen_001
 tex_effect_fazhen_003
+tex_effect_feather_01
 tex_effect_fengxian
 tex_effect_fire1
 tex_effect_fire2
@@ -2915,6 +2969,7 @@ tex_effect_mask_02_ag_10000062
 tex_effect_mask_02_ag_10000070
 tex_effect_mask_02_ag_10000075
 tex_effect_mask_02_ag_10000112
+tex_effect_mask_034_tex_01
 tex_effect_mask_03_ag_10000005
 tex_effect_mask_03_ag_10000007
 tex_effect_mask_03_ag_10000012
@@ -2986,6 +3041,7 @@ tex_effect_mofa_01
 tex_effect_mofa_02
 tex_effect_muzzleflash_fire_small_modular
 tex_effect_noise_wave_000
+tex_effect_noise_wave_000_01
 tex_effect_noise_wave_001
 tex_effect_nova_3x3_spritesheet
 tex_effect_obs_124
@@ -3113,6 +3169,7 @@ tex_effect_textures_glow_144
 tex_effect_textures_glow_144_1
 tex_effect_textures_wenli_05
 tex_effect_textures_yuanhuanguang01
+tex_effect_textures_yuanhuanguang01_1
 tex_effect_textures_yuanhuanguang02
 tex_effect_textures_yuanhuanguang03
 tex_effect_textures_yuanhuanguang03_1
@@ -3169,6 +3226,7 @@ tex_effect_ui_keji_huan01
 tex_effect_ui_keji_waihuan01
 tex_effect_ui_keji_waihuan022
 tex_effect_ui_keji_ziti022_01
+tex_effect_ui_limitbreakziti
 tex_effect_ui_pingmu_andi
 tex_effect_ui_pingmu_fangkuai
 tex_effect_ui_pingmu_fangkuai_shixin
@@ -3239,6 +3297,7 @@ tex_effect_xulie_shitou02_2x2
 tex_effect_xunhuan_noise
 tex_effect_yanhuo_00017_1
 tex_effect_yanhuo_00017_2
+tex_effect_yanhuo_00029_1_02
 tex_effect_yanhuo_00029_1_1
 tex_effect_yanhuo_00029_3
 tex_effect_yanhuo_00029_4
@@ -3316,6 +3375,8 @@ tex_effect_z_wenli15
 tex_effect_z_wenli16
 tex_effect_z_wenli17
 tex_effect_z_wenli18
+tex_effect_z_wenli19
+tex_effect_z_wenli20
 tex_effect_z_wuti01
 tex_effect_z_wuti02
 tex_effect_z_wuti03
@@ -3351,6 +3412,7 @@ tex_effect_z_xulie15
 tex_effect_z_xulie16
 tex_effect_z_xunhuan01
 tex_effect_z_xunhuan02
+tex_effect_z_xunhuan03
 tex_effext_071_atk1_jianci
 tex_effext_071_wuqi
 tex_effext_085_jianci
@@ -3411,6 +3473,7 @@ uiatlas_agcard_100000120
 uiatlas_agcard_100000120v1
 uiatlas_agcard_100000120v2
 uiatlas_agcard_100000120v3
+uiatlas_agcard_100000121
 uiatlas_agcard_10000014
 uiatlas_agcard_10000015
 uiatlas_agcard_10000016
@@ -3484,6 +3547,7 @@ uiatlas_agcard_10000079
 uiatlas_agcard_10000080
 uiatlas_agcard_10000081
 uiatlas_agcard_10000082
+uiatlas_agcard_100000821
 uiatlas_agcard_10000083
 uiatlas_agcard_10000085
 uiatlas_agcard_10000086
@@ -3516,8 +3580,10 @@ uiatlas_agcard_10000135
 uiatlas_agcard_10000153
 uiatlas_agcard_10000155
 uiatlas_agcard_10000165
+uiatlas_agcard_10000166
 uiatlas_agcard_10000176
 uiatlas_agcard_10020027
+uiatlas_agcard_10020041
 uiatlas_agcard_10020058
 uiatlas_agcard_10060001
 uiatlas_agcard_10060002
@@ -3673,6 +3739,7 @@ uiatlas_experienceui
 uiatlas_flytextui
 uiatlas_friendsui
 uiatlas_functionopenui
+uiatlas_gamensshaftui
 uiatlas_getrewardsui
 uiatlas_guidebookui
 uiatlas_guildbossredoui
@@ -3745,6 +3812,7 @@ uiatlas_towerui
 uiatlas_upgradesucceededui
 uiatlas_videoui
 uiatlas_weekbossui
+uiatlas_worldbossui
 uihbnewtech_bg_texture_01
 uiltmission_bg_texture
 ui_font_combatfont
@@ -3784,6 +3852,7 @@ ui_material_xiangqingmask
 ui_material_xiangqingmask_gaosi
 ui_material_xiangqingmask_gaosi_v2
 ui_material_zhuanchang
+ui_prefab_activity
 ui_prefab_agabilitypreview
 ui_prefab_agemo
 ui_prefab_agfilter
@@ -3829,6 +3898,7 @@ ui_prefab_experience
 ui_prefab_flytext
 ui_prefab_friends
 ui_prefab_functionopen
+ui_prefab_gamensshaft
 ui_prefab_getrewards
 ui_prefab_getsingleitem
 ui_prefab_guidebook
@@ -3902,9 +3972,12 @@ ui_prefab_uiskipplotbox
 ui_prefab_upgradesucceed
 ui_prefab_video
 ui_prefab_weekboss
+ui_prefab_worldboss
 unlit_reflection_sf
 uv_add_c_02_sf
 uv_refraction_c_sf
 watersurfaceopengl
+worldboss_bg
+worldboss_role_texture
 zoomcenteruv_add_c_sf
 zoomcenteruv_blended_c_sf

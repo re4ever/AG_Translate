@@ -1,5 +1,6 @@
 effect_ui_chouka_01
 test_ui_prefabs
+ui_prefab_activity
 ui_prefab_agabilitypreview
 ui_prefab_agemo
 ui_prefab_agfilter
@@ -50,6 +51,7 @@ ui_prefab_getsingleitem
 ui_prefab_guidebook
 ui_prefab_guild
 ui_prefab_guildboss
+ui_prefab_guildbossredo
 ui_prefab_guildcreate
 ui_prefab_handbook
 ui_prefab_help
@@ -64,6 +66,7 @@ ui_prefab_itemcomposite
 ui_prefab_itemdetail
 ui_prefab_iteminfo
 ui_prefab_itemlist
+ui_prefab_jigsaw
 ui_prefab_jjcbattlelist
 ui_prefab_jjcbattleover
 ui_prefab_jjcdefteaminfo
@@ -116,3 +119,4 @@ ui_prefab_uiskipplotbox
 ui_prefab_upgradesucceed
 ui_prefab_video
 ui_prefab_weekboss
+ui_prefab_worldboss

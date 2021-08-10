@@ -1,5 +1,6 @@
 effect_ui_chouka_01
 test_ui_prefabs
+ui_prefab_activity
 ui_prefab_agabilitypreview
 ui_prefab_agemo
 ui_prefab_agfilter
@@ -118,3 +119,4 @@ ui_prefab_uiskipplotbox
 ui_prefab_upgradesucceed
 ui_prefab_video
 ui_prefab_weekboss
+ui_prefab_worldboss
