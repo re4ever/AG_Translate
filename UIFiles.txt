@@ -31,8 +31,10 @@ ui_prefab_copymain
 ui_prefab_createrole
 ui_prefab_crusade
 ui_prefab_crusademain
+ui_prefab_diamondinfo
 ui_prefab_dispatch
 ui_prefab_drawcard
+ui_prefab_equipautowear
 ui_prefab_equipchange
 ui_prefab_equipdetail
 ui_prefab_equipfilter
@@ -41,6 +43,8 @@ ui_prefab_equipintensify
 ui_prefab_equipmanufacture
 ui_prefab_equipmentsynthesis
 ui_prefab_equipquickselect
+ui_prefab_exclusiveweapon
+ui_prefab_exclusiveweaponsmateria
 ui_prefab_expdungeons
 ui_prefab_experience
 ui_prefab_flytext

@@ -342,7 +342,9 @@ effect_combat_show10000111
 effect_combat_show10000112
 effect_combat_show10000113
 effect_combat_show10000114
+effect_combat_show10000119
 effect_combat_show10000129
+effect_combat_show10000155
 effect_combat_show10000166
 effect_combat_show10000631
 effect_combat_show10080022
@@ -402,6 +404,8 @@ effect_combat_show20100105
 effect_combat_show20100106
 effect_combat_show20100110
 effect_combat_show20100111
+effect_combat_show20100114
+effect_combat_show20100115
 effect_combat_show20900001
 effect_combat_show20900002
 effect_combat_show20900003
@@ -416,6 +420,7 @@ effect_combat_show20900014
 effect_combat_show20900015
 effect_combat_show20900021
 effect_combat_show20900022
+effect_combat_show20900026
 effect_combat_show21000001
 effect_combat_show23000001
 effect_combat_show26000001
@@ -859,6 +864,7 @@ mod_effect_shuikuosan
 mod_effect_sphere001
 mod_effect_sphere002
 mod_effect_test_yuanmian
+mod_effect_thorns_01
 mod_effect_tiaodai_ag086
 mod_effect_triangle
 mod_effect_tx_hxyj_001
@@ -1058,11 +1064,17 @@ plot_ep9moon_bg
 plot_ep9warzone_bg
 plot_factory2_bg
 plot_factory_bg
+plot_firestorminerbase_day_bg
+plot_firestorminerbase_nigtht_bg
+plot_firestorminer_event01_bg
+plot_firestorminer_event02_bg
+plot_firestorminer_event03_bg
 plot_fodsfromgod_bg
 plot_genaku_bg
 plot_graffiti_bg
 plot_habibattle_bg
 plot_hangar_bg
+plot_haraldoffice_day_bg
 plot_harpv1_bg
 plot_harpv2_bg
 plot_headofline_bg
@@ -1106,6 +1118,7 @@ plot_polar_bg
 plot_preach_bg
 plot_protect_bg
 plot_queen_bg
+plot_quinnairline_day_bg
 plot_reporter_bg
 plot_rescue_bg
 plot_ruins_bg
@@ -1210,6 +1223,7 @@ shader_homehighlight
 shader_home_bathroomwater
 shader_home_pbr_gi_furniture
 shader_home_pbr_smoothness_baseemmission
+shader_home_pbr_smoothness_baseemmission_culloff
 shader_lightbeam
 shader_lightbeam_detail
 shader_opaque_add
@@ -1292,6 +1306,11 @@ sight_canteen_blue_full_mat
 sight_canteen_blue_full_mod
 sight_canteen_blue_full_prefab
 sight_canteen_blue_full_tex
+sight_canteen_luxury_full_lightmap
+sight_canteen_luxury_full_mat
+sight_canteen_luxury_full_mod
+sight_canteen_luxury_full_prefab
+sight_canteen_luxury_full_tex
 sight_canteen_yellowb_full_animation
 sight_canteen_yellowb_full_mat
 sight_canteen_yellowb_full_prefab
@@ -1614,6 +1633,7 @@ skillclip_10000111
 skillclip_10000112
 skillclip_10000113
 skillclip_10000114
+skillclip_10000119
 skillclip_10000129
 skillclip_10000166
 skillclip_10080029
@@ -1767,8 +1787,12 @@ spineagmax_10000111_rescommon
 spineagmax_10000111_uiskel
 spineagmax_10000112_rescommon
 spineagmax_10000112_uiskel
+spineagmax_10000119_rescommon
+spineagmax_10000119_uiskel
 spineagmax_10000129_rescommon
 spineagmax_10000129_uiskel
+spineagmax_10000155_rescommon
+spineagmax_10000155_uiskel
 spineagmax_21000001_rescommon
 spineagmax_21000001_uiskel
 spineagmax_22000001_rescommon
@@ -2167,10 +2191,18 @@ spineag_10000114_homeskel
 spineag_10000114_rescommon
 spineag_10000114_resfight
 spineag_10000114_uiskel
+spineag_10000119_homeskel
+spineag_10000119_rescommon
+spineag_10000119_resfight
+spineag_10000119_uiskel
 spineag_10000129_homeskel
 spineag_10000129_rescommon
 spineag_10000129_resfight
 spineag_10000129_uiskel
+spineag_10000155_homeskel
+spineag_10000155_rescommon
+spineag_10000155_resfight
+spineag_10000155_uiskel
 spineag_10000166_rescommon
 spineag_10000166_resfight
 spineag_10000166_uiskel
@@ -2521,6 +2553,12 @@ spineenemy_20100110_uiskel
 spineenemy_20100111_rescommon
 spineenemy_20100111_resfight
 spineenemy_20100111_uiskel
+spineenemy_20100114_rescommon
+spineenemy_20100114_resfight
+spineenemy_20100114_uiskel
+spineenemy_20100115_rescommon
+spineenemy_20100115_resfight
+spineenemy_20100115_uiskel
 spineenemy_20900001_rescommon
 spineenemy_20900001_resfight
 spineenemy_20900001_uiskel
@@ -2583,6 +2621,15 @@ spineenemy_20900022_uiskel
 spineenemy_20900024_rescommon
 spineenemy_20900024_resfight
 spineenemy_20900024_uiskel
+spineenemy_20900026_rescommon
+spineenemy_20900026_resfight
+spineenemy_20900026_uiskel
+spineenemy_20900028_rescommon
+spineenemy_20900028_resfight
+spineenemy_20900028_uiskel
+spineenemy_20900029_rescommon
+spineenemy_20900029_resfight
+spineenemy_20900029_uiskel
 spinenpcshader_fight
 spinenpc_001_rescommon
 spinenpc_001_resfight
@@ -2692,6 +2739,7 @@ tex_effect_dilie_01_shc
 tex_effect_dilie_02_shc
 tex_effect_dilie_03_shc
 tex_effect_dilie_shc
+tex_effect_dilie_xingkong
 tex_effect_drop
 tex_effect_dunpai
 tex_effect_dunpai01
@@ -2894,6 +2942,7 @@ tex_effect_lightning2_1
 tex_effect_lightning5
 tex_effect_lightning5x10
 tex_effect_lightningspritessmooth05center
+tex_effect_lightning_024_c
 tex_effect_lightning_03
 tex_effect_lightning_04
 tex_effect_lightning_05
@@ -3377,6 +3426,8 @@ tex_effect_z_wenli17
 tex_effect_z_wenli18
 tex_effect_z_wenli19
 tex_effect_z_wenli20
+tex_effect_z_wenli21
+tex_effect_z_wenli22
 tex_effect_z_wuti01
 tex_effect_z_wuti02
 tex_effect_z_wuti03
@@ -3394,6 +3445,8 @@ tex_effect_z_wuti14
 tex_effect_z_wuti15
 tex_effect_z_wuti16
 tex_effect_z_wuti17
+tex_effect_z_wuti18
+tex_effect_z_wuti19
 tex_effect_z_xulie01
 tex_effect_z_xulie02
 tex_effect_z_xulie03
@@ -3410,9 +3463,11 @@ tex_effect_z_xulie13
 tex_effect_z_xulie14
 tex_effect_z_xulie15
 tex_effect_z_xulie16
+tex_effect_z_xulie17
 tex_effect_z_xunhuan01
 tex_effect_z_xunhuan02
 tex_effect_z_xunhuan03
+tex_effect_z_xunhuan04
 tex_effext_071_atk1_jianci
 tex_effext_071_wuqi
 tex_effext_085_jianci
@@ -3574,6 +3629,7 @@ uiatlas_agcard_10000112
 uiatlas_agcard_10000113
 uiatlas_agcard_10000114
 uiatlas_agcard_10000115
+uiatlas_agcard_10000119
 uiatlas_agcard_10000129
 uiatlas_agcard_10000134
 uiatlas_agcard_10000135
@@ -3585,6 +3641,7 @@ uiatlas_agcard_10000176
 uiatlas_agcard_10020027
 uiatlas_agcard_10020041
 uiatlas_agcard_10020058
+uiatlas_agcard_10020119
 uiatlas_agcard_10060001
 uiatlas_agcard_10060002
 uiatlas_agcard_10060015
@@ -3664,6 +3721,8 @@ uiatlas_agcard_10090029
 uiatlas_agcard_10090030
 uiatlas_agcard_10090031
 uiatlas_agcard_10090032
+uiatlas_agcard_10090033
+uiatlas_agcard_10090034
 uiatlas_agcard_11000001
 uiatlas_agcard_11000002
 uiatlas_agcard_11000003
@@ -3710,6 +3769,9 @@ uiatlas_bosscard_20900020
 uiatlas_bosscard_20900021
 uiatlas_bosscard_20900022
 uiatlas_bosscard_20900024
+uiatlas_bosscard_20900026
+uiatlas_bosscard_20900028
+uiatlas_bosscard_20900029
 uiatlas_bosscard_20910461
 uiatlas_bosscard_20910462
 uiatlas_challengebossui
@@ -3727,6 +3789,7 @@ uiatlas_copymainui
 uiatlas_createroleui
 uiatlas_crusademainui
 uiatlas_crusadeui
+uiatlas_diamondinfoui
 uiatlas_dispatchui
 uiatlas_diyui
 uiatlas_drawcardui
@@ -3735,6 +3798,7 @@ uiatlas_equipintensifyui
 uiatlas_equipmanufacture
 uiatlas_equipmentsynthesis
 uiatlas_equipquickselectui
+uiatlas_exclusiveweaponui
 uiatlas_experienceui
 uiatlas_flytextui
 uiatlas_friendsui
@@ -3801,6 +3865,7 @@ uiatlas_skilldetailui
 uiatlas_skillicon
 uiatlas_skillupgradeui
 uiatlas_storeui
+uiatlas_summerswimsuitui
 uiatlas_supportagui
 uiatlas_teambginfoiconui
 uiatlas_teameditui
@@ -3883,8 +3948,10 @@ ui_prefab_copymain
 ui_prefab_createrole
 ui_prefab_crusade
 ui_prefab_crusademain
+ui_prefab_diamondinfo
 ui_prefab_dispatch
 ui_prefab_drawcard
+ui_prefab_equipautowear
 ui_prefab_equipchange
 ui_prefab_equipdetail
 ui_prefab_equipfilter
@@ -3893,6 +3960,8 @@ ui_prefab_equipintensify
 ui_prefab_equipmanufacture
 ui_prefab_equipmentsynthesis
 ui_prefab_equipquickselect
+ui_prefab_exclusiveweapon
+ui_prefab_exclusiveweaponsmateria
 ui_prefab_expdungeons
 ui_prefab_experience
 ui_prefab_flytext
