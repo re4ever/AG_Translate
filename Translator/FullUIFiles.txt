@@ -3607,6 +3607,7 @@ tex_sight_com_yuan2_mask
 towerui_bg_texture
 tranperentdiffuse_sf
 transperentdiffuse02_sf
+uiatlas_activityhelpui
 uiatlas_advertisementui
 uiatlas_agcard_10000000
 uiatlas_agcard_10000001
@@ -3967,6 +3968,7 @@ uiatlas_messageboxui
 uiatlas_missionui
 uiatlas_netwaitingui
 uiatlas_newsectionui
+uiatlas_ninetasksui
 uiatlas_noviceguideui
 uiatlas_othericon
 uiatlas_passportui
@@ -4033,6 +4035,7 @@ ui_material_xiangqingmask_gaosi
 ui_material_xiangqingmask_gaosi_v2
 ui_material_zhuanchang
 ui_prefab_activity
+ui_prefab_activityhelp
 ui_prefab_agabilitypreview
 ui_prefab_agemo
 ui_prefab_agfilter
@@ -4124,6 +4127,7 @@ ui_prefab_maze
 ui_prefab_messagebox
 ui_prefab_mission
 ui_prefab_netwaiting
+ui_prefab_ninetasks
 ui_prefab_notice
 ui_prefab_noviceguide
 ui_prefab_passport
