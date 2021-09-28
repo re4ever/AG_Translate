@@ -51,6 +51,7 @@ ui_prefab_experience
 ui_prefab_flytext
 ui_prefab_friends
 ui_prefab_functionopen
+ui_prefab_gamereasoning
 ui_prefab_getrewards
 ui_prefab_getsingleitem
 ui_prefab_guidebook
@@ -111,6 +112,7 @@ ui_prefab_skilldetail
 ui_prefab_skillupgrade
 ui_prefab_store
 ui_prefab_strenthstonedungeons
+ui_prefab_summary
 ui_prefab_supportag
 ui_prefab_teamedit
 ui_prefab_teaminfo
