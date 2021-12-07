@@ -1,2 +1,0 @@
-ui_font_zh_content
-ui_font_zh_title
